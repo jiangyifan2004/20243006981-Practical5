@@ -1,0 +1,22 @@
+# Gradle and Android build output
+.gradle/
+.kotlin/
+**/build/
+.cxx/
+.externalNativeBuild/
+
+# Local SDK, IDE, and signing configuration
+local.properties
+.idea/
+*.iml
+*.jks
+*.keystore
+keystore.properties
+
+# Agent scratch files and local deliverables
+work/
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
