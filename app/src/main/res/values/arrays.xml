@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Required order: Beijing, Shanghai, Chongqing, Tianjin. -->
+    <string-array name="municipalities_array">
+        <!-- Sources: https://english.beijing.gov.cn/beijinginfo/
+             https://english.beijing.gov.cn/beijinginfo/facts/
+             https://english.beijing.gov.cn/beijinginfo/facts/202006/t20200601_1912281.html -->
+        <item>Beijing is the capital of China and one of its four municipalities governed directly by the central government. Located in northern China, it combines a long urban history with the functions of a modern national capital. Its history as a city reaches back to the State of Yan during the Western Zhou period. Today, Beijing is a major centre for politics, culture, international communication, science and technology. The municipality has sixteen districts. Mountains surround much of its northern and western territory, while lower land extends towards the southeast. Summers are generally hot and rainy, and winters are cold and dry.</item>
+
+        <!-- Source: https://english.shanghai.gov.cn/en-Overview/20231212/c9aa0f22df154557bbbbb30d996eb2b2.html -->
+        <item>Shanghai is a municipality on the eastern coast of China, close to the mouth of the Yangtze River. It belongs to the Yangtze River Delta and has strong connections with domestic and international markets. The city is an important centre for finance, trade, shipping, and scientific innovation. Its port supports a large container shipping network, while museums, art galleries, and parks provide cultural and leisure spaces. Shanghai is divided into sixteen districts. Its modern transport and education systems support a diverse urban population. Together, these activities make the municipality a major gateway linking China with the wider world.</item>
+
+        <!-- Sources: https://english.cq.gov.cn/aboutchongqing/overview/Geography/
+             https://www.cq.gov.cn/zjcq/sqgk/cqsq/202412/t20241231_14378256.html -->
+        <item>Chongqing is a municipality in southwestern China, located along the upper reaches of the Yangtze River. Its central urban area developed around the meeting of the Yangtze and Jialing rivers. Mountains, hills, valleys, and numerous rivers shape its landscape. The municipality includes a large region beyond its central city, with both urban districts and rural communities. Chongqing became a municipality directly under the central government in 1997, after previously being part of Sichuan Province. It is an important industrial city in western China. Its long history and river setting continue to influence the layout and character of the city.</item>
+
+        <!-- Source: https://en.tj.gov.cn/services/InvestinginTianjin/202312/t20231228_6493642.html -->
+        <item>Tianjin is a municipality in northern China, near Beijing and the coast of the Bohai Sea. Its location beside rivers and the sea has helped it develop as a centre of transport, trade, and industry. Tianjin Port provides an important shipping gateway for the Beijing-Tianjin-Hebei region and inland areas of northern China. The city adopted its name during the Ming Dynasty; the name refers to the ferry of the emperor. Tianjin also played an early role in modern Chinese education, finance, and commerce. Today, the Binhai New Area remains an important part of its economic development and connections with international markets.</item>
+    </string-array>
+</resources>
