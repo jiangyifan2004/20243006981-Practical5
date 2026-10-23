@@ -7,4 +7,7 @@
     <string name="municipalities_image_description">Map showing Beijing, Shanghai, Tianjin and Chongqing in China</string>
     <string name="invalid_municipality">Enter Beijing, Shanghai, Tianjin or Chongqing.</string>
     <string name="missing_municipality">No valid municipality was provided. Please enter a municipality again.</string>
+    <string name="municipality_photo_description">Photograph of the selected municipality</string>
+    <string name="municipality_photo">Photograph of %1$s</string>
+    <string name="visit_site">Visit site</string>
 </resources>
