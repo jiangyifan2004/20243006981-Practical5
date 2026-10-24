@@ -3,7 +3,6 @@
     <string name="app_name">Chinese Municipalities</string>
     <string name="main_title">Municipalities in China</string>
     <string name="municipality_input_label">I want to know about:</string>
-    <string name="municipality_input_hint">Name of a municipality</string>
     <string name="municipalities_image_description">Map showing Beijing, Shanghai, Tianjin and Chongqing in China</string>
     <string name="invalid_municipality">Enter Beijing, Shanghai, Tianjin or Chongqing.</string>
     <string name="missing_municipality">No valid municipality was provided. Please enter a municipality again.</string>
