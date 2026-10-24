@@ -10,4 +10,9 @@
     <string name="municipality_photo_description">Photograph of the selected municipality</string>
     <string name="municipality_photo">Photograph of %1$s</string>
     <string name="visit_site">Visit site</string>
+    <string name="no_browser">No app is available to open this website. Please install a web browser.</string>
+    <string name="website_beijing" translatable="false">https://english.beijing.gov.cn/</string>
+    <string name="website_shanghai" translatable="false">https://english.shanghai.gov.cn/</string>
+    <string name="website_chongqing" translatable="false">https://english.cq.gov.cn/</string>
+    <string name="website_tianjin" translatable="false">https://en.tj.gov.cn/</string>
 </resources>
